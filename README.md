@@ -1,10 +1,12 @@
 # Deep Learning and Behavior Cloning for H2-Diesel Dual-Fuel Engine Control
 
+[![DOI](https://zenodo.org/badge/1036036262.svg)](https://doi.org/10.5281/zenodo.16902579)
+
 This repo contains files related to training the deep learning models for the **H2DF project at the University of Alberta**.  
 The project aims to research novel control strategies using the **4.5 L Hydrogen–Diesel Engine at the MECE Engine Lab, Edmonton**.  
 This particular repository models the engine combustion process using machine learning, employing various deep learning architectures.
 
-Author: **Alexander Winkler (Mail: alexander.winkler@rwth-aachen.de)**
+Author: **Alexander Winkler (alexander.winkler@rwth-aachen.de)**
 
 ---
 
@@ -53,9 +55,10 @@ The code runs on **MATLAB R2024a or newer** and requires:
 ## Cite us
 
 If you are using this code, please cite the publications:  
-- [Dummy1]  
-- [Dummy2]  
-- The experimental dataset publication on **Zenodo**  
+- [Dummy1], Paper 1, tbd  
+- [Dummy2], Paper 2, tbd
+- The data publication on **Zenodo**:
+[![DOI](https://zenodo.org/badge/1036036262.svg)](https://doi.org/10.5281/zenodo.16902579)  
 
 ---
 
